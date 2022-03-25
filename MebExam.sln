@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MebExam", "MebExam\MebExam.csproj", "{95C458C4-3B00-47B5-B91A-A644E52854D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C458C4-3B00-47B5-B91A-A644E52854D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C458C4-3B00-47B5-B91A-A644E52854D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C458C4-3B00-47B5-B91A-A644E52854D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C458C4-3B00-47B5-B91A-A644E52854D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2542B9A-1781-4485-B3A1-90A4AAA1640E}
+	EndGlobalSection
+EndGlobal
